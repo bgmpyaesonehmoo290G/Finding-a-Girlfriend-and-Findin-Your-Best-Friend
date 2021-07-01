@@ -34,4 +34,46 @@ No (9) Name (Main Main)
 [age] 18
 <fb account > https://www.facebook.com/kyalsin.n.oo.45
 
-   
+No (10) Name Lwimn Min
+age 14
+fb account > https://www.facebook.com/profile.php?id=100068045947566
+
+No (11) Name  Nieno Borg
+age ?
+fb account > https://www.facebook.com/n00b.xploiter
+
+No (12) Name Sat Paing Phyo
+age ?
+fb account > https://www.facebook.com/sat.phyo.503
+
+No (13) Name Hein Thant
+age ?
+fb account > https://www.facebook.com/Luci.Fer.8564
+
+No (14) Name Cold
+age ?
+fb account > https://www.facebook.com/profile.php?id=100062945532792
+
+No (15) Name Rider Ariyan
+age ?
+fb account > https://www.facebook.com/profile.php?id=100067097540011
+
+No (16) Name Txi Xa 
+age ?
+fb account > https://www.facebook.com/profile.php?id=100056885711356
+
+No (17) Name Nay Lin Kha
+age ?
+fb account > https://www.facebook.com/profile.php?id=100069508242223
+
+No (18) Name  Ah Lin
+age ?
+fb account > https://www.facebook.com/tan.jiro.58367116
+
+No (19) Name Kyaw Zin
+age ?
+fb account > https://www.facebook.com/profile.php?id=100044956642003
+
+No (20) Name Love 
+age ?
+fb account > https://www.facebook.com/profile.php?id=100054712726362
