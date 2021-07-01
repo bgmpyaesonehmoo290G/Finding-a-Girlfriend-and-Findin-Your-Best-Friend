@@ -13,7 +13,7 @@ banner "Starting the Job"
 echo "Do not be alone"
 sleep 3
 
-PS3='You can choose more than you like:'
+
 tool=( "Girl friend" "Just friend" "best friend"  "Boy Friend" "exit")
 
 echo "----"
