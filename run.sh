@@ -13,37 +13,30 @@ banner "Starting the Job"
 echo "Do not be alone"
 sleep 3
 
-PS3='Choose u want to install:'
+PS3='You can choose more than you like:'
 tool=( "Girl friend" "Just friend" "best friend"  "Boy Friend" "exit")
 
 echo "----"
 select fav in "${tool[@]}"; do
     case $fav in
 "Girl friend")
-pkg install python
-pkg install git
-git clone https://github.com/love676/kill
-cd kill
-echo -e "\e[32mThis Tool is installed"
-python Kill.py
-exit
+cd fire
+clear
+cat girl.txt
+echo -e "\e[32This People you are looking for"
 ;;
 "Just Friend")
-pkg install git
-git clone https://github.com/DynamicMirror/MM-Logo
-cd MM-Logo
-bash MNLOGO.sh
-echo -e "\e[32mThis Tool is installed"
+cd fire
+clear
+cat just.txt
+echo -e "\e[32This People you are looking for"
 exit
 ;;
 "best Friend")
-apt update
-apt install git curl php wget -y
-git clone git://github.com/htr-tech/zphisher.git
-cd zphisher
-echo -e "\e[32mThis Tool is installed"
-bash zphisher.sh
-exit
+cd fire
+clear
+cat best.txt
+echo -e "\e[32This People you are looking for"
 ;;
 "Boy Friend")
 cd fire
